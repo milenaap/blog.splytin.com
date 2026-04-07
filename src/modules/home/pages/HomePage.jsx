@@ -2,7 +2,7 @@ export const HomePage = () => {
   const featuredStories = [
     {
       id: 1,
-      title: "Historia uno",
+      title: "Historia uno111",
       description: "Una pequeña historia breve.",
       image: "https://picsum.photos/800/500?random=1",
     },
