@@ -1,0 +1,14 @@
+// 📌 src/styles/variables.scss
+:root {
+  --primary-color: #1e40af;
+  --secondary-color: #9333ea;
+  --danger-color: #dc2626;
+  --success-color: #16a34a;
+}
+
+// Variables de SASS para usar en otros archivos SCSS
+$primary-color: var(--primary-color);
+$secondary-color: var(--secondary-color);
+$danger-color: var(--danger-color);
+$success-color: var(--success-color);
+
